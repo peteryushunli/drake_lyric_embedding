@@ -3,4 +3,4 @@ This project uses text-embeddings via OpenAI's ada model to find lyrical similar
 
 ![Plot](IG_Exports/fatd_plot.png)
 ![Plot](IG_Exports/drake_album_plot.png)
-![Plot](IG_Exports/drake_allsongs.html)
+![Plot](IG_Exports/drake_allsongs_full.png)
